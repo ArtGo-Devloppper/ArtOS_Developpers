@@ -1,4 +1,4 @@
-# ArtOS_Developpers
+# ArtOS Developpers
 
   Create your own apps for ArtOS
   You use the ArtOS SDKS or create your own !
